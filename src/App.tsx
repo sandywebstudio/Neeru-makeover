@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+// Neeru Makeover - Premium Bridal Makeup & Hair Styling Salon
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import About from "./components/About";
