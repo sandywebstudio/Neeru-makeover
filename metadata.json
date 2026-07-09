@@ -1,0 +1,6 @@
+{
+  "name": "Neeru Makeover",
+  "description": "Premier luxury bridal makeup studio and beauty salon in Neem Ka Thana, Rajasthan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
