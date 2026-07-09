@@ -11,7 +11,7 @@ export default function Gallery() {
       id: "g1",
       url: "/masterpiece1.jpg",
       category: "Bridal",
-      alt: "Traditional Royal Bride in Red",
+      alt: "Modern Bride in Glam Sunglasses",
     },
     {
       id: "g2",
@@ -23,7 +23,7 @@ export default function Gallery() {
       id: "g3",
       url: "/masterpiece3.jpg",
       category: "Bridal",
-      alt: "Modern Bride in Glam Sunglasses",
+      alt: "Traditional Royal Brides in Red",
     },
     {
       id: "g4",
