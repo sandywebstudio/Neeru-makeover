@@ -42,7 +42,7 @@ export default function Services() {
       id: "skin",
       title: "Skin & Beauty",
       subtitle: "RADIANT SPA & CARE",
-      image: "/skin&beauty.jpg",
+      image: "/skin_beauty.jpg",
       items: [
         "Facial",
         "Cleanup",
