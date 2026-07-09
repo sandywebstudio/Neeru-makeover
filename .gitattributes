@@ -1,0 +1,7 @@
+# Treat all image files as binary to prevent line ending conversion and corruption
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
